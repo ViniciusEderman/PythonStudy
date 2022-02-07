@@ -9,7 +9,7 @@ print(num_aleatorio)
 
 while num_de_tentativas < 3:
   num_de_tentativas += 1
-  num_utilizador = int(input("Tente adivinhar o número aleatório: ")) 
+  num_utilizador = int(input("Tente adivinhar o número aleatório do 01 até 06: ")) 
   if num_utilizador == num_aleatorio:
     print("parabéns você acertou!")
     break
