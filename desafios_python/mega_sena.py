@@ -17,10 +17,10 @@ for contador in range(1, quantidade+1):
     numeros.append(num)
   else:
    continue
-numero+=1  
-numeros.sort()
-sleep(0.3)
-print(f'jogo {contador}: {numeros}')
-print()
-contador+=1
+  numero+=1  
+  numeros.sort()
+  sleep(0.3)
+  print(f'jogo {contador}: {numeros}')
+  print()
+  contador+=1
   
