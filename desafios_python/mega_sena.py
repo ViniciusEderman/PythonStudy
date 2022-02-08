@@ -12,7 +12,7 @@ for contador in range(1, quantidade+1):
   numeros.clear()
   numero = 0
   while numero <6:
-   num = random.randint(1,60)
+   num = random.randint(1, 60)
    if num not in numeros:  
     numeros.append(num)
   else:
