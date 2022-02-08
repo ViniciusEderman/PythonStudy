@@ -6,7 +6,7 @@ numeros = list()
 #contador = 1
 print('gerando...')
 print()
-sleep(0.7)
+sleep(0.3)
 
 for contador in range(1, quantidade+1):
   numeros.clear()
