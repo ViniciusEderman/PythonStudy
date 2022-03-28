@@ -7,4 +7,4 @@ if (variableA > variableB) and (variableA > variableC):
 elif (variableB > variableA)  and (variableB > variableC):
     print("O maior valor é: ", variableB)
 else: 
-    print("O maior valor é: ", variableC50)
+    print("O maior valor é: ", variableC)
