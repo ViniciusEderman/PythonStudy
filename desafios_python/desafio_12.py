@@ -1,5 +1,5 @@
 
-from class_do_de12 import Personagem
+from class_do_desafio12 import Personagem
 
 dinheiro = 1000
 nome = ('')

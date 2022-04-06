@@ -1,3 +1,4 @@
+## exemplo de classe 
 
 class Avatar:
     def __init__(self, nome, energia):
