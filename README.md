@@ -1,3 +1,4 @@
 # PythonStudy
 
- Neste repositório encontrasse apenas a lógica básica do Python com alguns exemplos e questões.
+ Neste repositório não encontrarás nada além da lógica básica do Python, por isto o readme.md é apenas um básico Olá, tudo bem? 
+ <3 
